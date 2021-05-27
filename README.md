@@ -1,2 +1,2 @@
-# my_rabbit
+# rabbit
 my practice of rabbitmq
